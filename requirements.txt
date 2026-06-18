@@ -6,7 +6,7 @@ SQLAlchemy==2.0.0
 Flask==2.2.5
 Flask-SQLAlchemy==3.0.2
 psycopg2-binary==2.9.3
-python-dotenv==0.21.1
+python-dotenv==1.2.2
 
 # Runtime tools
 gunicorn==23.0.0
